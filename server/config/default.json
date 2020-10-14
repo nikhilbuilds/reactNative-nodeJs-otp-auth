@@ -1,0 +1,8 @@
+{
+    "mongoURI": "<YOUR MongoURI>",
+    "jwtSecret":"<YOUR JWYTSECRET>",
+    "awscredentials": {
+        "AWS_ACCESS_KEY_ID": "<YOUR AWS_ACCESS_KEY>",
+        "AWS_SECRET_ACCESS_KEY":"<YOUR AWS_SECRET_ACCESS_KEY>"
+    }
+}
