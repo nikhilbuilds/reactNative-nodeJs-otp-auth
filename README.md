@@ -47,7 +47,7 @@ Using this you can built nodeJS(express) APIs and android app in your local mach
    * An AWS account
    * AWS CLI installed in your machine
 
-   ## Deployment
+   ## API Deployment
 
   Run the following command to deploy the app as AWS Lambda function
   -`npm run deploy`
