@@ -15,10 +15,10 @@ Using this you can built nodeJS(express) APIs and android app in your local mach
      - `cd rnAuth`
      - `npm install`
       
- **Start Metro**
+   *Start Metro*
      - `npx react-native start`
       
- **Start your application**
+   *Start your application*
      - `npx react-native run-android` 
   
 ## About the files and folders
